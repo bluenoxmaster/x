@@ -14,4 +14,10 @@
 <a href="https://x.com/bluemaster100/status/1850532641763725409"><b>Mat Rec</b> - O que dizia o matemático Al Khwarizmi sobre o valor de uma pessoa</a></br>
 <a href="https://x.com/bluemaster100/status/1850174378824073542"><b>Mat Rec/Prova</b> - Prove que o número abcabc (3 dígitos repetidos 2 vezes) será divisível por 7, 11 e 13</a></br>
 <a href="https://x.com/bluemaster100/status/1849912272388489363"><b>Mat Rec/Finac</b> - Regra do 7 e 10 envolvendo taxas de juro</a></br>
-<a href=""><b>Mat</b> - </a></br>
+<a href="https://x.com/bluemaster100/status/1848512447805886640"><b>Mat Rec/Hist</b> - Nota sobre Malba Tahan (Prof. Julio Cesar Mello e Sousa) e Problema dos Camelos</a></br>
+<a href="https://x.com/bluemaster100/status/1845625961620062594"><b>Mat Rec/Prova</b> - Regra do quadrado de números terminados em 5 e prova</a></br>
+<a href="https://x.com/bluemaster100/status/1810811183487762577"><b>Mat/Provas</b> - Recomendações de livros para aprender como provar algo em matemática</a></br>
+<a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
+<a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo - S. Johnson</a></br>
+<a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
+<a href=""><b>Mat Rec/Hist</b> - </a></br>

@@ -1,6 +1,6 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
-####Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades 
-####Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência
+#### Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades </br>
+####         Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência </br>
 <a href="https://x.com/bluemaster100/status/1875943157910642801"><b>Mat Rec/Prob</b> - Problema das 3 portas (Monty Hall)</a></br>
 <a href="https://x.com/bluemaster100/status/1875722936738304318"><b>IA</b> - Futuro do "Uber" sem motorista já chegou (Waymo)</a></br>
 <a href="https://x.com/bluemaster100/status/1873402866724958535"><b>Mat/Hist</b> - D. Pedro II e a Matemática</a></br>

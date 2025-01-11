@@ -16,9 +16,9 @@
 <a href="https://x.com/bluemaster100/status/1849912272388489363"><b>Mat Rec/Finac</b> - Regra do 7 e 10 envolvendo taxas de juro</a></br>
 <a href="https://x.com/bluemaster100/status/1848512447805886640"><b>Mat Rec/Hist</b> - Nota sobre Malba Tahan (Prof. Julio Cesar Mello e Sousa) e Problema dos Camelos</a></br>
 <a href="https://x.com/bluemaster100/status/1845625961620062594"><b>Mat Rec/Prova</b> - Regra do quadrado de números terminados em 5 e prova</a></br>
-<a href="https://x.com/bluemaster100/status/1810811183487762577"><b>Mat/Provas</b> - Recomendações de livros para aprender como provar algo em matemática</a></br>
+<a href="https://x.com/bluemaster100/status/1810811183487762577"><b>Mat/Prova</b> - Recomendações de livros para aprender como provar algo em matemática</a></br>
 <a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
 <a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo" S. Johnson</a></br>
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
-<a href=""><b>Mat Rec/Hist</b> - </a></br>
+<a href="https://x.com/bluemaster100/status/1877852471747334452"><b>Mat Rec/Prova</b> - Regra para multiplicar rápido 2 números próximos de 100 (China vs Coreia do Sul)</a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>

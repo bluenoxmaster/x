@@ -1,6 +1,7 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
-#### Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades </br>
-####         Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência </br>
+<b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
+<b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência</b></br>
+<a href="https://x.com/bluemaster100/status/1877852471747334452"><b>Mat Rec/Prova</b> - Regra para multiplicar rápido 2 números próximos de 100 (China vs Coreia do Sul)</a></br>
 <a href="https://x.com/bluemaster100/status/1875943157910642801"><b>Mat Rec/Prob</b> - Problema das 3 portas (Monty Hall)</a></br>
 <a href="https://x.com/bluemaster100/status/1875722936738304318"><b>IA</b> - Futuro do "Uber" sem motorista já chegou (Waymo)</a></br>
 <a href="https://x.com/bluemaster100/status/1873402866724958535"><b>Mat/Hist</b> - D. Pedro II e a Matemática</a></br>
@@ -20,5 +21,6 @@
 <a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
 <a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo" S. Johnson</a></br>
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
-<a href="https://x.com/bluemaster100/status/1877852471747334452"><b>Mat Rec/Prova</b> - Regra para multiplicar rápido 2 números próximos de 100 (China vs Coreia do Sul)</a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
+<a href=""><b>Mat Rec/Hist</b> - </a></br>
+

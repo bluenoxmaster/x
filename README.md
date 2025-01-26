@@ -23,7 +23,6 @@
 <a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
 <a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo" S. Johnson</a></br>
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
-<a href="https://x.com/bluemaster100/status/1881007428264767940"><b>Mat Rec/Hist</b> - Al-Kindi (801-873 DC): pai da Criptologia e Pioneiro na Inferência Estatistica </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>

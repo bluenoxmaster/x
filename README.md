@@ -1,6 +1,7 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência</b></br>
+<a href="https://x.com/bluemaster100/status/1893787862514200787"><b>Biografia/Math</b> - Jim Simons, o papa das finanças quantitativas</a></br>
 <a href="https://x.com/bluemaster100/status/1890335213613363565"><b>Recom/Livro</b> - Livro e Curso de Estatística Moderna e ML (R e Python) por Profs. de Stanford</a></br>
 <a href="https://x.com/bluemaster100/status/1883526112204194162"><b>Ciência/Hist</b> - Ciência no Mundo Árabe Antigo: Documentário da BBC</a></br>
 <a href="https://x.com/bluemaster100/status/1881007428264767940"><b>Mat Rec/Hist</b> - Al-Kindi (801-873 DC): Pai da Criptologia e Pioneiro na Inferência Estatistica</a></br>
@@ -26,4 +27,4 @@
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
-<a href="https://x.com/bluemaster100/status/1890335213613363565"><b>Mat Rec/Hist</b> - </a></br>
+

@@ -1,8 +1,8 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência</b></br>
-<a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - </a>Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>
-<a href="https://x.com/bluemaster100/status/1929564699781194194"><b>Recom/Livro</b> - </a>Probabilidade - Active Statistics (Gelman e Vehtari, 2024)</br>
+<a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>
+<a href="https://x.com/bluemaster100/status/1929564699781194194"><b>Recom/Livro</b> - Estatística - Active Statistics (Gelman e Vehtari, 2024)</br>
 <a href="https://x.com/bluemaster100/status/1893787862514200787"><b>Biografia/Mat</b> - Jim Simons, o papa das finanças quantitativas</a></br>
 <a href="https://x.com/bluemaster100/status/1890335213613363565"><b>Recom/Livro</b> - Livro e Curso de Estatística Moderna e ML (R e Python) por Profs. de Stanford</a></br>
 <a href="https://x.com/bluemaster100/status/1883526112204194162"><b>Ciência/Hist</b> - Ciência no Mundo Árabe Antigo: Documentário da BBC</a></br>

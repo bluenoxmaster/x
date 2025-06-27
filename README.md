@@ -1,7 +1,7 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
-<b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência</b></br>
-<a href="https://x.com/bluemaster100/status/1938644146006167942"<b>MRecom/Livros</b> - Fisher, Neyman and the Creation of Classical Statistics (Lehmann, 2011)</a></br>
+<b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência></b></br>
+<a href="https://x.com/bluemaster100/status/1938644146006167942"><b>Recom/Livros</b> - Fisher, Neyman and the Creation of Classical Statistics (Lehmann, 2011)</a></br>
 <a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>
 <a href="https://x.com/bluemaster100/status/1929564699781194194"><b>Recom/Livro</b> - Estatística - Active Statistics (Gelman e Vehtari, 2024)</br>
 <a href="https://x.com/bluemaster100/status/1893787862514200787"><b>Biografia/Mat</b> - Jim Simons, o papa das finanças quantitativas</a></br>

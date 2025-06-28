@@ -1,6 +1,7 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência></b></br>
+<a href="https://x.com/bluemaster100/status/1939074461426229608"><b>Mat Rec/Hist</b>Recom/Filme - Estatística - Moneyball: O Homem que Mudou o Jogo (Netflix)</a></br>
 <a href="https://x.com/bluemaster100/status/1938644146006167942"><b>Recom/Livro</b> - Estatística - Fisher, Neyman and the Creation of Classical Statistics (Lehmann, 2011)</a></br>
 <a href="https://x.com/bluemaster100/status/1934257459520245857"><b>Recom/Livro</b> - Matemática - Mathematics: Its Historical Aspects, Wonders and Beyond (Posamentier, 2022)</a></br>
 <a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>
@@ -29,5 +30,4 @@
 <a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
 <a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo" S. Johnson</a></br>
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
-<a href="https://x.com/bluemaster100/status/1934257459520245857"><b>Mat Rec/Hist</b> - </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>

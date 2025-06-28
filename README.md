@@ -1,7 +1,7 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência></b></br>
-<a href="https://x.com/bluemaster100/status/1939074461426229608"><b>Mat Rec/Hist</b>Recom/Filme - Estatística - Moneyball: O Homem que Mudou o Jogo (Netflix)</a></br>
+<a href="https://x.com/bluemaster100/status/1939074461426229608"><b>Recom/Filme</b> - Estatística - Moneyball: O Homem que Mudou o Jogo (Netflix)</a></br>
 <a href="https://x.com/bluemaster100/status/1938644146006167942"><b>Recom/Livro</b> - Estatística - Fisher, Neyman and the Creation of Classical Statistics (Lehmann, 2011)</a></br>
 <a href="https://x.com/bluemaster100/status/1934257459520245857"><b>Recom/Livro</b> - Matemática - Mathematics: Its Historical Aspects, Wonders and Beyond (Posamentier, 2022)</a></br>
 <a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>

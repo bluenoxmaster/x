@@ -2,7 +2,7 @@
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência></b></br>
 <a href="https://x.com/bluemaster100/status/1946926046642610543"><b>Estat/Hist</b> - Estatística - Erros de Grandes Matemáticos - Problemas Clássicos de Estatística</a></br>
-<a href="https://x.com/bluemaster100/status/1945249899068391840"><b>Recom/Livro</b> - A.C. Morgado (2016) - Análise Combinatória e Probabilidade (10a. ed, IMPA/SBM)</a></br>
+<a href="https://x.com/bluemaster100/status/1945249899068391840"><b>Recom/Livro</b> - Matemática - Morgado (2016) - Análise Combinatória e Probabilidade (10a. ed, IMPA/SBM)</a></br>
 <a href="https://x.com/bluemaster100/status/1943803143998804415"><b>Estat/Hist</b> - Estatística - Primordios dos Testes: Karl Pearson e o Teste do Qui-Quadrado em 1900</a></br>
 <a href="https://x.com/bluemaster100/status/1940796840196161555"><b>Estat/Livro</b> - Estatística - Glossário Inglês-Português de Estatística (SPE/ABE)</a></br>
 <a href="https://x.com/bluemaster100/status/1939882392078192949"><b>Estat/Hist</b> - Estatística - Primórdios dos Testes de Significância: Arbuthnot (1710) e o sexo dos bebês</a></br>

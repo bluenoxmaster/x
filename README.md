@@ -1,6 +1,8 @@
 ### Índice de tópicos no X (mais recentes primeiro) </br>
 <b>Tópicos: Mat Rec: Matemática Recreativa, Hist: História, Prob: Probabilidades</b> </br>
 <b>Estat: Estatística, IA: Inteligência Artificial, Inf: Inferência></b></br>
+<a href="https://x.com/bluemaster100/status/1949866265398432225"><b>Recom/Livro</b> - Estatística - D. Spiegelhalter e o livro "The Art of Uncertainty" </a></br>
+<a href="https://x.com/bluemaster100/status/1949451971691180449"><b>Mat Rec/Estat</b> - Estatística - Fisher, Testes Exatos e o Chá Inglês</a></br>
 <a href="https://x.com/bluemaster100/status/1946926046642610543"><b>Estat/Hist</b> - Estatística - Erros de Grandes Matemáticos - Problemas Clássicos de Estatística</a></br>
 <a href="https://x.com/bluemaster100/status/1945249899068391840"><b>Recom/Livro</b> - Matemática - Morgado (2016) - Análise Combinatória e Probabilidade (10a. ed, IMPA/SBM)</a></br>
 <a href="https://x.com/bluemaster100/status/1943803143998804415"><b>Estat/Hist</b> - Estatística - Primordios dos Testes: Karl Pearson e o Teste do Qui-Quadrado em 1900</a></br>
@@ -9,6 +11,7 @@
 <a href="https://x.com/bluemaster100/status/1939074461426229608"><b>Recom/Filme</b> - Estatística - Moneyball: O Homem que Mudou o Jogo (Netflix)</a></br>
 <a href="https://x.com/bluemaster100/status/1938644146006167942"><b>Recom/Livro</b> - Estatística - Fisher, Neyman and the Creation of Classical Statistics (Lehmann, 2011)</a></br>
 <a href="https://x.com/bluemaster100/status/1934257459520245857"><b>Recom/Livro</b> - Matemática - Mathematics: Its Historical Aspects, Wonders and Beyond (Posamentier, 2022)</a></br>
+<a href="https://x.com/bluemaster100/status/1933928792768086365"><b>Mat/Recom</b> - Matemática - Khan Academy, um ótimo recurso para aprender Matemática</a></br>
 <a href="https://x.com/bluemaster100/status/1931704430958690462"><b>Recom/Livro</b> - Probabilidade - The Pleasures of Probability (R. Isaac, 1995)</br>
 <a href="https://x.com/bluemaster100/status/1929564699781194194"><b>Recom/Livro</b> - Estatística - Active Statistics (Gelman e Vehtari, 2024)</br>
 <a href="https://x.com/bluemaster100/status/1893787862514200787"><b>Biografia/Mat</b> - Jim Simons, o papa das finanças quantitativas</a></br>
@@ -35,6 +38,4 @@
 <a href="https://x.com/bluemaster100/status/1803814435909210200"><b>Estat/Inf</b> - Análise da CENTRAL ENGLAND TEMPERATURE SERIES desde 1659 </a></br>
 <a href="https://x.com/bluemaster100/status/1798414530453578209"><b>Resenha</b> - Livro "Como Chegamos Aqui - 6 inovações que transformaram o mundo" S. Johnson</a></br>
 <a href="https://x.com/bluemaster100/status/1790381543128449413"><b>Mat/Inf</b> - Problemas no raciocínio intuitivo - D. Kahneman - Problema dos Aniversários</a></br>
-<a href=""><b>Mat Rec/Hist</b> - </a></br>
-<a href=""><b>Mat Rec/Hist</b> - </a></br>
 <a href=""><b>Mat Rec/Hist</b> - </a></br>
